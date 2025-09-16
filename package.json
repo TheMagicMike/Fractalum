@@ -1,0 +1,12 @@
+{
+  "name": "fractalum-eleventy",
+  "version": "1.0.0",
+  "description": "Fractalum site built with Eleventy",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
